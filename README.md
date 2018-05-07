@@ -6,3 +6,6 @@
 4.  Run `npm start` to run the app
 
 Now you're ready to rumble!
+
+Note: Boilerplate used for project
+https://github.com/react-boilerplate/react-boilerplate
